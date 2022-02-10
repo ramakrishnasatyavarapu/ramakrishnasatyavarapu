@@ -1,0 +1,9 @@
+a=int(input("enter the first number:"))
+b=int(input("enter the second number:"))
+if(a>b):
+    print("a is greater", a)
+else:
+    print("b is greater", b)
+Output:
+Enter n: 658
+658 is even number
