@@ -1,0 +1,15 @@
+
+[2/9, 8:25 PM] Deepthi Cheruku: Output
+Enter the first number: 58
+Enter the second number:69
+b is greater 69
+[2/9, 8:25 PM] Deepthi Cheruku: a=int(input("enter the first number:"))
+b=int(input("enter the second number:"))
+if(a>b):
+    print("a is greater", a)
+else:
+    print("b is greater", b)
+Output
+Enter the first number: 58
+Enter the second number:69
+b is greater 69
